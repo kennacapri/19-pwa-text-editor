@@ -12,4 +12,4 @@ https://github.com/coding-boot-camp/cautious-meme for date and time starter code
 ## License
 See LICENSE in the repo.
 
-## url and screenshot
+
